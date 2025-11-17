@@ -1,1 +1,1 @@
-!(assets/calc.jpeg)
+!assets/calc.jpeg
