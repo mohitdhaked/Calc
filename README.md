@@ -1,1 +1,1 @@
-!assets/calc.jpeg
+!(https://github.com/mohitdhaked/Calc/blob/master/dhaked_calc.jpeg)
